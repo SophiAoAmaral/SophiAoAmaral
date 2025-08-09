@@ -55,7 +55,7 @@ Me chamo Sophia Oliveira Do Amaral, tenho 19 anos e sou natural de Sao Paulo. Co
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SophiAoAmaral&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=SophiAoAmaral&show_icons=true&theme=radical&locale=pt-br"
   />
 <img 
       align="left" 
